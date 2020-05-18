@@ -12,6 +12,7 @@ export class StringInterpolationComponent {
   serverStatus: string = 'Online';  
   fullName: string = 'Robert Junior';  
 
+
   isDisabled: boolean = true;  
 }
 
