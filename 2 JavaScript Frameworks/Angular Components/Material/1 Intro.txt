@@ -1,0 +1,7 @@
+Angular Material components help in constructing attractive, consistent, and functional web pages and web applications while adhering to modern web design principles like browser portability, device independence, and graceful degradation.
+
+https://material.io/
+
+https://material.angular.io/guide/getting-started
+
+https://www.tutorialspoint.com/angular_material/index.htm
